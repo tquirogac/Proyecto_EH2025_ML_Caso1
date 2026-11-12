@@ -1,9 +1,0 @@
-duckdb
-pandas
-numpy
-scikit-learn
-xgboost
-shap
-plotly
-folium
-ydata-profiling
